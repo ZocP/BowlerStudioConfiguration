@@ -4,6 +4,10 @@
       "https://github.com/ZocP/javaCad_ZocP.git",
       "1706622578805"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group05",
+      "1706623742084"
+    ],
     "https://github.com/ZocP/helloWorld_ZocP.git": [
       "https://github.com/ZocP/helloWorld_ZocP.git",
       "1706622047283"
@@ -17,10 +21,6 @@
     "https://github.com/ZocP/javaCad_ZocP.git:javaCad.groovy": [
       "https://github.com/ZocP/javaCad_ZocP.git",
       "javaCad.groovy"
-    ],
-    "https://github.com/ZocP/helloWorld_ZocP.git:helloWorld.groovy": [
-      "https://github.com/ZocP/helloWorld_ZocP.git",
-      "helloWorld.groovy"
     ]
   },
   "BowlerStudioConfigs": {
