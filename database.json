@@ -18,9 +18,13 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/ZocP/javaCad_ZocP.git:javaCad.groovy": [
-      "https://github.com/ZocP/javaCad_ZocP.git",
-      "javaCad.groovy"
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git:Nametag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
+      "Nametag.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git:KineticSystems2024Group05.ino": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
+      "KineticSystems2024Group05.ino"
     ]
   },
   "BowlerStudioConfigs": {
