@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1707234489230"
+    ],
     "https://github.com/ZocP/javaCad_ZocP.git": [
       "https://github.com/ZocP/javaCad_ZocP.git",
       "1706622578805"
@@ -25,6 +29,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git:KineticSystems2024Group05.ino": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
       "KineticSystems2024Group05.ino"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ]
   },
   "BowlerStudioConfigs": {
