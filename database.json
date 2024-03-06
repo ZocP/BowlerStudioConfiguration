@@ -30,6 +30,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
       "Nametag.groovy"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git:SimpleRobotKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
+      "SimpleRobotKinematics.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group05.git",
       "SimpleRobotCad.groovy"
